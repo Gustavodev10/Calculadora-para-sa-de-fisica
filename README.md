@@ -15,4 +15,4 @@ Nosso projeto foi desenvolvido com as seguintes tecnologias:
  💻 Projeto
  
 A calculadora foi desenvolvida para auxiliar no entendimento de dados essenciais de saúde, permitindo ao usuário calcular sua Taxa Metabólica Basal, gasto calórico diário, ingestão ideal de água e estimativas de déficit energético de forma rápida e prática, tornando o acompanhamento mais acessível e intuitivo.
-- [Acesse o site finalizado, online](https://gustavodev10.github.io/Calculadora-para-sa-de-fisica/)
+- [Acesse o site finalizado, online](https://gustavodev10.github.io/Calculadora-para-saude-fisica/)
